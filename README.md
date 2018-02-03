@@ -36,7 +36,7 @@ look at you.<end>
 early!  pu... i really said posesie ma.  jesus! take father t. thanks... corruction ...<end>
 ```
 
-## TODO
+## To do
 - Add beam search.
 - Add attention mechanism.
 - Increase number of parameters potentially using gradient checkpointing.
